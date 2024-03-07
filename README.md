@@ -7,7 +7,7 @@
 <p>
 This is a Dummy Project, where user can signup themself and then after login they visit to dashboard and there they can see all the product they added to the dashboard and there is another section called analytics where user can see Gender overview chart and product overview chart. 
 </p>
-<h3>Teach Stack</h3>
+<h3>Tech Stack</h3>
 <p>Frontend: HTML, CSS, JavaScript</p>
 <p>Backend: Node.js, Express.js</p>
 <p>Database: MongoDB</p>
